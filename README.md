@@ -1,7 +1,7 @@
 # jFET3x_Bass_overdrive
 Bass overdrive pedal 
 
-![alt text](https://github.com/SlowProject/jFET3x_Bass_overdrive/blob/main/pics/3Dfront.jpg)  
+![alt text](https://github.com/SlowProject/jFET3x_Bass_overdrive/blob/main/pics/3Dfront.JPG)  
 
 PCB PADS:  
 -	G1 and G2: ground pads (both connected to the ground plane of the PCB)  
